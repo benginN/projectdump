@@ -1,4 +1,4 @@
-#Don't forget to import the things below and change 'GMAIFROM', GMA and 'PASSWORD'as yours. The mail that logged in must have "Less Secure Apps" allowed. 
+#Don't forget to import the things below and change 'GMAIFROM', 'GMAILTO' and 'PASSWORD'as yours. The mail that logged in must have "Less Secure Apps" allowed. 
 
 import random
 import requests
